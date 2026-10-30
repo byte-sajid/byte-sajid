@@ -1,20 +1,25 @@
 <div align="center">
 
-  <!-- HACKER MATRIX / CYBER BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:00ff66&height=220&section=header&text=MUHAMMAD%20SAJID&fontSize=52&fontColor=00ff66&fontAlignY=40&animation=twinkling&desc=%3E_%20Cybersecurity%20Researcher%20%7C%20Ethical%20Hacker%20%7C%20Full%20Stack%20%26%20App%20Dev&descSize=18&descAlignY=62&descColor=a3e635" width="100%" alt="Header Banner" />
+  <!-- Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0d1117,100:00FF66&amp;height=220&amp;section=header&amp;text=MUHAMMAD%20SAJID&amp;fontSize=65&amp;fontColor=00FF66&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%5B%20CYBER%20SECURITY%20%7C%20ETHICAL%20HACKER%20%7C%20FULL-STACK%20%7C%20APP%20DEV%20%5D&amp;descSize=18&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Header" />
 
-  <!-- DYNAMIC TYPING SVG (TERMINAL THEME) -->
+  <!-- Animated Typing Tagline -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF66&center=true&vCenter=true&random=false&width=650&lines=%5B%2B%5D+Breaching+defenses+to+make+systems+unbreakable...;sudo+apt-get+install+rootkit-defense;Full-Stack+Architect+%7C+Mobile+App+Engineer;%23!%2Fbin%2Fbash+--noprofile;Bug+Bounty+Hunter+%26+Offensive+Security" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00FF66&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E_Initiating+secure+handshake...;%3E_Ethical+Hacker+%26+Offensive+Sec+Specialist;%3E_Full-Stack+Architect+%26+Mobile+App+Engineer;%3E_Root+access+granted." alt="Typing SVG" />
   </a>
 
-  <br/>
+  <br/><br/>
 
-  <!-- QUICK SOCIAL STATS -->
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=ACCESS_LOGS&color=00ff66&style=flat-square" alt="Visitor Counter" />
-    <img src="https://img.shields.io/badge/SECURITY%20CLEARANCE-LEVEL%205-red?style=flat-square&logo=hackthebox&logoColor=white" alt="Clearance" />
-    <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ARMED-brightgreen?style=flat-square" alt="Status" />
+  <!-- Hacker Graphic / GIF -->
+  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="480" height="220" alt="Cyber Visual" style="border: 2px solid #00FF66; border-radius: 10px;" />
+
+  <br/><br/>
+
+  <!-- Quick Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=for-the-badge&amp;logo=target&amp;logoColor=black&amp;labelColor=0d1117" alt="Status" />
+    <img src="https://img.shields.io/badge/SECURITY-RED%20TEAM%20%2F%20BLUE%20TEAM-00FF66?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=black&amp;labelColor=0d1117" alt="Sec" />
+    <img src="https://img.shields.io/badge/CLEARANCE-ROOT%20LEVEL-00FF66?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=black&amp;labelColor=0d1117" alt="Root" />
   </p>
 
 </div>
@@ -28,53 +33,47 @@
   "operator": "Muhammad Sajid",
   "alias": "0xSajid",
   "roles": [
-    "Certified Ethical Hacker (CEH / Offensive Security)",
+    "Certified Ethical Hacker (Offensive Security)",
     "Full-Stack Web Architect",
     "Cross-Platform Mobile App Developer",
-    "Bug Hunter & Threat Analyst"
+    "Bug Hunter & Security Researcher"
   ],
-  "mission": "Exploiting vulnerabilities responsibly & architecting zero-trust software",
-  "operating_systems": ["Kali Linux", "Parrot OS", "Arch", "Ubuntu", "macOS"],
-  "coffee_consumed_liters": 1337,
+  "mission": "Breaching perimeters ethically & engineering fault-tolerant software",
+  "operating_systems": ["Kali Linux", "Parrot OS", "Arch", "Ubuntu"],
+  "breaches_fixed": 999,
   "motto": "There is no patch for human stupidity, but I can patch everything else."
 }
 ```
 
 ---
 
-<div align="center">
-  <img src="https://media.giphy.com/media/YQitE4YTQYokgu7Gzk/giphy.gif" width="480" alt="Cyber Security Matrix Gif" />
-</div>
-
----
-
 ### 🛡️ Arsenal & Exploitation Stack (Offensive & Defensive)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-000000?style=for-the-badge&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ghidra-000000?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&amp;logo=metasploit&amp;logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&amp;logo=owasp&amp;logoColor=00FF66" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=00FF66" />
 </p>
+
+---
 
 ### 💻 Full-Stack & App Dev Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
 </p>
 
 ---
@@ -82,63 +81,54 @@
 ### 📊 Satellite Telemetry & Breach Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&icon_color=00ff66&border_color=00ff66&hide_border=false" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&stroke=00FF66&ring=00FF66&fire=00FF66&currStreakNum=00FF66&sideNums=00FF66&sideLabels=C9D1D9&dates=C9D1D9&border=00FF66" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00FF66&amp;icon_color=00FF66&amp;text_color=c9d1d9&amp;border_color=00FF66&amp;hide_border=false" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;background=0d1117&amp;ring=00FF66&amp;fire=00FF66&amp;currStreakNum=00FF66&amp;sideNums=00FF66&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;border=00FF66&amp;hide_border=false" width="48%" alt="GitHub Streak" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&title_color=00ff66&text_color=c9d1d9&border_color=00ff66" width="55%" />
-</div>
-
----
-
-### 🕹️ Real-Time Git Activity Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+<div align="center" style="margin-top: 15px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00FF66&amp;text_color=c9d1d9&amp;border_color=00FF66&amp;hide_border=false" width="48%" alt="Top Languages" />
 </div>
 
 ---
 
-### 🎯 Security Research & Flag Capture
+### 🎯 Security Research & Bug Hunting
 
-```bash
-[★] Bug Bounty Programs       : HackerOne | Bugcrowd | Intigriti
-[★] CTF Platforms             : Hack The Box (HTB) | TryHackMe (THM)
-[★] Core Focus Areas          : Web App Pentesting (OWASP Top 10), API Audits, Reverse Engineering
-[★] Secure Development        : DevSecOps, Static & Dynamic Code Analysis (SAST/DAST)
+```yaml
+Bounty_Platforms:
+  - HackerOne
+  - Bugcrowd
+  - Intigriti
+
+Labs_and_WarGames:
+  - Hack The Box (HTB)
+  - TryHackMe (THM)
+  - PortSwigger Web Security Academy
+
+Specializations:
+  - OWASP Top 10 Exploitation & Remediation
+  - Web & API Penetration Testing
+  - Network Vulnerability Assessment
+  - DevSecOps & Secure Code Audits
 ```
 
 ---
 
-### 📻 Establish Secure Comm Link (PGP / Contact)
+### 📻 Establish Secure Comm Link
 
 <div align="center">
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="ProtonMail" />
   </a>
   <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="mailto:your-secure-email@proton.me">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail" />
-  </a>
-  <a href="https://tryhackme.com/p/YOUR_THM_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/TryHackMe-CC292B?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
-  </a>
-  <a href="https://app.hackthebox.com/profile/YOUR_HTB_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black" alt="HTB" />
+    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
   </a>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff66,50:0d1117,100:000000&height=120&section=footer" width="100%" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00FF66,50:0d1117,100:000000&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
 </div>
