@@ -1,134 +1,185 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:0d1117,100:00FF66&amp;height=220&amp;section=header&amp;text=MUHAMMAD%20SAJID&amp;fontSize=65&amp;fontColor=00FF66&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=%5B%20CYBER%20SECURITY%20%7C%20ETHICAL%20HACKER%20%7C%20FULL-STACK%20%7C%20APP%20DEV%20%5D&amp;descSize=18&amp;descAlignY=62&amp;descAlign=50" width="100%" alt="Header" />
-
-  <!-- Animated Typing Tagline -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;pause=1000&amp;color=00FF66&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=%3E_Initiating+secure+handshake...;%3E_Ethical+Hacker+%26+Offensive+Sec+Specialist;%3E_Full-Stack+Architect+%26+Mobile+App+Engineer;%3E_Root+access+granted." alt="Typing SVG" />
+  <!-- GLITCH CYBER TITLE HEADER -->
+  <a href="https://github.com/byte-sajid">
+    <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:000000,50:002b11,100:00ff66&amp;height=220&amp;section=header&amp;text=MUHAMMAD%20SAJID&amp;fontSize=48&amp;fontColor=00ff66&amp;animation=glitch&amp;fontAlignY=38&amp;desc=%5B%20CYBER%20DEFENDER%20//%20ETHICAL%20HACKER%20//%20FULL-STACK%20ARCHITECT%20%5D&amp;descFontSize=16&amp;descAlignY=60&amp;descAlign=50" alt="Cyber Banner" width="100%" />
   </a>
 
-  <br/><br/>
+  <!-- DYNAMIC TYPING RADAR -->
+  <a href="https://github.com/byte-sajid">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2600&amp;pause=900&amp;color=00FF66&amp;background=0D111700&amp;center=true&amp;vCenter=true&amp;width=750&amp;height=50&amp;lines=root%40byte-sajid%3A~%23+initiating+penetration_test.sh...;OWASP+Top+10+Auditing+%7C+Vulnerability+Assessment;Full-Stack+Web+%26+Mobile+Applications+Architect;Securing+Endpoints+%26+Defeating+Exploits" alt="Typing SVG" />
+  </a>
 
-  <!-- Hacker Graphic / GIF -->
-  <img src="https://media.giphy.com/media/YQitE4YNQNahy/giphy.gif" width="480" height="220" alt="Cyber Visual" style="border: 2px solid #00FF66; border-radius: 10px;" />
-
-  <br/><br/>
-
-  <!-- Quick Badges -->
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF66?style=for-the-badge&amp;logo=target&amp;logoColor=black&amp;labelColor=0d1117" alt="Status" />
-    <img src="https://img.shields.io/badge/SECURITY-RED%20TEAM%20%2F%20BLUE%20TEAM-00FF66?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=black&amp;labelColor=0d1117" alt="Sec" />
-    <img src="https://img.shields.io/badge/CLEARANCE-ROOT%20LEVEL-00FF66?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=black&amp;labelColor=0d1117" alt="Root" />
+  <p align="center">
+    <a href="https://github.com/byte-sajid"><img src="https://img.shields.io/badge/SECURITY_CLEARANCE-LEVEL_5_ROOT-000000?style=for-the-badge&amp;logo=gnubash&amp;logoColor=00FF66&amp;labelColor=0d1117&amp;color=00ff66" alt="Root Clearance" /></a>
+    <a href="https://github.com/byte-sajid"><img src="https://img.shields.io/badge/OPS-RED_%26_BLUE_TEAM-000000?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=00FF66&amp;labelColor=0d1117&amp;color=00ff66" alt="Ops Badge" /></a>
+    <a href="https://github.com/byte-sajid"><img src="https://img.shields.io/badge/STATUS-SYSTEMS_ARMED-000000?style=for-the-badge&amp;logo=matrix&amp;logoColor=00FF66&amp;labelColor=0d1117&amp;color=00ff66" alt="Armed Badge" /></a>
   </p>
 
 </div>
 
 ---
 
-### 📡 `root@sajid:~# cat identity.json`
+### 👤 `[OPERATOR_PROFILE :: BIOMETRIC_ASCII_SCAN]`
 
-```json
+```text
+               .:=*******+=-.
+           .=****#******####***+==:
+        .-**#####*#######%%%%###****
+       +*#####%%%%%############%%###-
+      +##%%#%%#*+==--:::::::::--+###-
+      *###%#+=-::................:+##*
+      *##*--:::........   ........-+##:
+      *#*=-:::::......     ......::=*#=
+      =**---:::.......  ...::---::::+*+
+      -*+---=++***+=::::-=***==---::-*=
+       *+--====+++++=:..-++++====-::=+:
+       =*---=+=++-=--:..--====-=--::==
+     :.:==--:----::::.. .:.::::...::-:::-
+     =:-==-:.......::.   ....    ..:-=:..
+     .:===-::....::.... ...::......:=.-:
+      :-:=+--::----====-==-:::-:::--+..
+        :=*===-**+====-=----=*+----++.
+         .#*+==++===---::-----=-=++**
+          *##*+=----=====--::-==+**#*
+          :#%%#**+----==-:::-+*####+:
+          .=+%###**++=====++*####*=.
+            +####################*=
+            :*###%%%%%%%%%#%#####*.
+             -##%%%%%%%%%%%%#####+:
+             ++*###%%%%%%%%####+--=+
+            =*-=+**#####%#***+=--:-*.
+          ..=#==-===+++**====-----==....
+    ...:....-++===========-------==.  ....
+
+[ SCAN STATUS: RECOGNITION 100% // IDENTITY CONFIRMED: BYTE-SAJID ]
++-------------------------------------------------------------------------------+
+|  [+] NAME        : Muhammad Sajid                                             |
+|  [+] CALLSIGN    : byte-sajid                                                 |
+|  [+] BIOMETRIC   : High-Resolution ASCII Face Scan Verified                  |
+|  [+] DISCIPLINE  : Offensive Security / Full-Stack & Mobile Development       |
+|  [+] ATTACK VECT : Web App PenTest, Reverse Engineering, API Vulnerabilities  |
+|  [+] BUILD VECT  : MERN / Next.js, Mobile Apps (Flutter/React Native), DevOps |
+|  [+] RUNTIME     : Arch / Kali Rolling / ZSH                                  |
++-------------------------------------------------------------------------------+
+```
+
+---
+
+### 🖥️ `[TERMINAL_SESSION :: 0xSAJID_ROOT]`
+
+```bash
+root@byte-sajid:~# whoami --extended
 {
   "operator": "Muhammad Sajid",
-  "alias": "0xSajid",
+  "alias": "byte-sajid",
   "roles": [
-    "Certified Ethical Hacker (Offensive Security)",
+    "Ethical Hacker & Penetration Tester",
     "Full-Stack Web Architect",
-    "Cross-Platform Mobile App Developer",
-    "Bug Hunter & Security Researcher"
+    "Cross-Platform Mobile Application Developer"
   ],
-  "mission": "Breaching perimeters ethically & engineering fault-tolerant software",
-  "operating_systems": ["Kali Linux", "Parrot OS", "Arch", "Ubuntu"],
-  "breaches_fixed": 999,
-  "motto": "There is no patch for human stupidity, but I can patch everything else."
+  "mission": "Deconstruct vulnerable infrastructure to architect unbreakable software.",
+  "focus_areas": {
+    "red_team": ["OWASP Top 10", "Network Pivoting", "Privilege Escalation", "OSINT"],
+    "engineering": ["Full-Stack Architecture", "REST & GraphQL APIs", "Secure Microservices"]
+  },
+  "current_status": "Pivoting through subnets & pushing clean code."
 }
+root@byte-sajid:~# ./engage_payload.sh --stealth --target=production
+[+] Deploying firewalls, hardening endpoints, and spinning up production clusters...
 ```
 
 ---
 
-### 🛡️ Arsenal & Exploitation Stack (Offensive & Defensive)
+### 🛡️ `OFFENSIVE_ARSENAL & CYBER_SECURITY`
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kali-linux&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-123456?style=for-the-badge&amp;logo=metasploit&amp;logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&amp;logo=burpsuite&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-002D62?style=for-the-badge&amp;logo=nmap&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&amp;logo=owasp&amp;logoColor=00FF66" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux_Terminal-000000?style=for-the-badge&amp;logo=gnu-bash&amp;logoColor=00FF66" />
-</p>
-
----
-
-### 💻 Full-Stack & App Dev Stack
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&amp;logo=react&amp;logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&amp;logo=flutter&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&amp;logo=mongodb&amp;logoColor=white" />
-</p>
-
----
-
-### 📊 Satellite Telemetry & Breach Metrics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00FF66&amp;icon_color=00FF66&amp;text_color=c9d1d9&amp;border_color=00FF66&amp;hide_border=false" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&amp;theme=tokyonight&amp;background=0d1117&amp;ring=00FF66&amp;fire=00FF66&amp;currStreakNum=00FF66&amp;sideNums=00FF66&amp;sideLabels=c9d1d9&amp;dates=8b949e&amp;border=00FF66&amp;hide_border=false" width="48%" alt="GitHub Streak" />
-</div>
-
-<div align="center" style="margin-top: 15px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00FF66&amp;text_color=c9d1d9&amp;border_color=00FF66&amp;hide_border=false" width="48%" alt="Top Languages" />
-</div>
-
----
-
-### 🎯 Security Research & Bug Hunting
-
-```yaml
-Bounty_Platforms:
-  - HackerOne
-  - Bugcrowd
-  - Intigriti
-
-Labs_and_WarGames:
-  - Hack The Box (HTB)
-  - TryHackMe (THM)
-  - PortSwigger Web Security Academy
-
-Specializations:
-  - OWASP Top 10 Exploitation & Remediation
-  - Web & API Penetration Testing
-  - Network Vulnerability Assessment
-  - DevSecOps & Secure Code Audits
+```text
+[+] RECON & OSINT   : Nmap | theHarvester | Shodan | Amass | Sublist3r | Maltego
+[+] WEB AUDITING    : Burp Suite Pro | OWASP ZAP | SQLmap | Ffuf | Nuclei | Gobuster
+[+] EXPLOITATION    : Metasploit Framework | Netcat | Hydra | John the Ripper | Hashcat
+[+] NETWORK OPS     : Wireshark | Tcpdump | Bettercap | Aircrack-ng | Snort
+[+] DEFENSE & CLOUD : Docker Security | WAF Config | JWT/OAuth2 Hardening | SSL Pinning
 ```
 
 ---
 
-### 📻 Establish Secure Comm Link
+### ⚡ `FULL-STACK & MOBILE ENGINEERING`
+
+#### ⚙️ Languages & Runtimes
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,c,cpp,python,js,ts,php,dart,java,go&amp;perline=10" alt="Languages" />
+</p>
+
+#### 🌐 Web, Mobile & Backend Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,flutter,redux,fastapi,django,html,css&amp;perline=11" alt="Frameworks" />
+</p>
+
+#### 🗄️ Databases & Cloud Infrastructure
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis,firebase,docker,kubernetes,aws,linux,git,github,postman&amp;perline=12" alt="DevOps and Databases" />
+</p>
+
+---
+
+### 🕹️ `RADAR & TELEMETRY DASHBOARD`
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=byte-sajid&amp;show_icons=true&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ff66&amp;text_color=c9d1d9&amp;icon_color=00ff66&amp;border_color=00ff66&amp;hide_border=false" alt="Sajid's Stats" width="415" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=byte-sajid&amp;theme=tokyonight&amp;background=0d1117&amp;border=00ff66&amp;stroke=00ff66&amp;ring=00ff66&amp;fire=00ff66&amp;currStreakNum=00ff66&amp;sideNums=c9d1d9&amp;dates=8b949e" alt="Sajid's Streak" width="415" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=byte-sajid&amp;layout=compact&amp;theme=tokyonight&amp;bg_color=0d1117&amp;title_color=00ff66&amp;text_color=c9d1d9&amp;border_color=00ff66&amp;hide_border=false" alt="Top Languages" width="450" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 `CONTRIBUTION_GRID_SNAKE`
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/byte-sajid/byte-sajid/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/byte-sajid/byte-sajid/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Snake Animation" src="https://raw.githubusercontent.com/byte-sajid/byte-sajid/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+### 📡 `TRANSMISSION_UPLINK` // Connect with Muhammad Sajid
+
+<div align="center">
+
+  <a href="https://github.com/byte-sajid" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&amp;logo=github&amp;logoColor=00ff66&amp;labelColor=0d1117" alt="GitHub" />
+  </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/ProtonMail-6D4AFF?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="ProtonMail" />
+  <a href="mailto:YOUR_EMAIL@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/PROTONMAIL-6D4AFF?style=for-the-badge&amp;logo=protonmail&amp;logoColor=white" alt="Email" />
   </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter%20%2F%20X-000000?style=for-the-badge&amp;logo=x&amp;logoColor=white" alt="X" />
+  <a href="https://tryhackme.com/p/byte-sajid" target="_blank">
+    <img src="https://img.shields.io/badge/TRYHACKME-A40000?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
   </a>
+  <a href="https://app.hackthebox.com/users/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/HACKTHEBOX-111927?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=9FEF00" alt="HackTheBox" />
+  </a>
+
 </div>
 
-<br/>
+<br />
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00FF66,50:0d1117,100:000000&amp;height=120&amp;section=footer" width="100%" alt="Footer" />
+  <sub><code>[ SYSTEM TIME: $(date +%s) ] // SECURED WITH SHA-256 // END OF FILE</code></sub>
 </div>
